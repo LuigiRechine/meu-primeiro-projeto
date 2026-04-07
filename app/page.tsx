@@ -1,8 +1,10 @@
 import "./home.css";
+import Menu from "./menu/page";
 
 export default function Home(){
   return(
     <div className="cont">
+      <Menu/>
       <h1 className="title">Minhas férias</h1>
       <div className="part">
         <p className="txt">Minhas férias foram bem tranquilas, passei a maior parte do tempo em casa descansando e aproveitando para relaxar depois do ano de estudos. Mesmo sem fazer muitas viagens, consegui aproveitar esse período para descansar bastante.</p>

@@ -1,0 +1,11 @@
+.nav{
+    background-color: rgb(64, 64, 64);
+    width: 100vw;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
